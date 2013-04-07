@@ -76,3 +76,11 @@ debug：是否显示调试信息
 	config.js: 配置文件
 	
 	package.json: 项目信息
+
+### 4. routes 说明(rest API)
+
+	app.post('/login', login); //POST: /login
+	
+	app.get('/user', info); //GET: /user
+	
+	app.get('/logout', logout); //GET: logout
