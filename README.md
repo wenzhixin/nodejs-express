@@ -51,3 +51,28 @@ debug：是否显示调试信息
 3) 启动
 
 	node app
+	
+### 3. 文件说明
+
+	helpers：
+		---loghelper.js: 日志输出
+		---sqlhelper.js: mysql 帮助类
+	
+	html: 静态文件夹(html, css, js)
+	
+	logs: 日志信息
+		---access.log
+		---error.log
+	
+	models: 模型
+		---user.js: 用户模型
+
+	routes: 路由		
+		---index.js: 主路由
+		---user.js: 用户路由
+		
+	app.js: 主文件
+	
+	config.js: 配置文件
+	
+	package.json: 项目信息
