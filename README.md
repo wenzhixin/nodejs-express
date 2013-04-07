@@ -43,10 +43,10 @@
 		debug: true
 	}
 	
-name：项目名称
-port：服务端口
-mysql：设置 mysql 数据库
-debug：是否显示调试信息
+name：项目名称  
+port：服务端口  
+mysql：设置 mysql 数据库  
+debug：是否显示调试信息  
 	
 3) 启动
 
