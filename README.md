@@ -50,7 +50,9 @@ debug：是否显示调试信息
 	
 3) 启动
 
-	node app
+	//node app
+	
+	./cluster.sh start / stop / status
 	
 ### 3. 文件说明
 

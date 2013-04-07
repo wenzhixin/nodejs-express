@@ -4,12 +4,12 @@
 
 module.exports = {
 	name: 'nodejs_express',
-	port: 10000,
+	port: 10001,
 	mysql: {
 		database: 'nodejs_express',
 		host: 'localhost',
 		user: 'root',
-		password: 'password',
+		password: 'dingjia',
 		insecureAuth: true
 	},
 	debug: true
