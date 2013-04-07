@@ -1,6 +1,5 @@
 /**
  * @author zhixin wen <wenzhixin2010@gmail.com>
- * @date 2013-03-01
  */
 
 var fs = require('fs'),
