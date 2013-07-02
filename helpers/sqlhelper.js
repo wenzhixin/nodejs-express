@@ -22,7 +22,7 @@ exports.getFilter = function(options, keys, table, append) {
 		sql: sql,
 		params: params
 	};
-}
+};
 
 exports.query = function(sql, params, callback) {
 	if (config.debug) {
